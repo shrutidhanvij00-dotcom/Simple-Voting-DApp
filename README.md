@@ -1,10 +1,6 @@
 # Simple-voting--dapp
 A simple Solidity smart contract for candidate voting with vote tracking and double-voting prevention, built as a practice project.
 
-# Simple Voting DApp
-
-A basic Solidity smart contract for candidate voting, built as a practice project.
-
 ## Features
 - Owner can add candidates
 - Any address can vote once per candidate list
