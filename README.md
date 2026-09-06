@@ -13,4 +13,4 @@ A simple Solidity smart contract for candidate voting with vote tracking and dou
 - Built and tested in Remix IDE
 
 ## Contract Address
-[Sepolia contract address yahan daalo]
+0xe69cbf1f2d480d44e32b76877bf4f22d62aba728
